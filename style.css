@@ -41,7 +41,9 @@ color:#FFD54F;
 }
 
 .hero{
-height:100vh;
+min-height:100vh;
+height:auto;
+padding:140px 20px 60px;
 display:flex;
 justify-content:center;
 align-items:center;
