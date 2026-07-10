@@ -331,3 +331,14 @@ margin-bottom:10px;
 .testimonial-card strong{
 color:#0B3D91;
 }
+.hero h1{
+    font-size:56px;
+    margin-bottom:20px;
+}
+
+.hero p{
+    font-size:22px;
+    max-width:700px;
+    margin:0 auto 30px;
+    line-height:1.6;
+}
