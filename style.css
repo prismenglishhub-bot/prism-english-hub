@@ -269,3 +269,50 @@ color:#0B3D91;
     color:#555;
     line-height:1.7;
 }
+.testimonials{
+padding:80px 8%;
+background:#f7f9fc;
+text-align:center;
+}
+
+.testimonials h2{
+font-size:40px;
+color:#0B3D91;
+margin-bottom:40px;
+}
+
+.testimonial-grid{
+display:flex;
+justify-content:center;
+gap:30px;
+flex-wrap:wrap;
+}
+
+.testimonial-card{
+background:#fff;
+padding:30px;
+width:320px;
+border-radius:20px;
+box-shadow:0 10px 25px rgba(0,0,0,0.1);
+transition:.3s;
+}
+
+.testimonial-card:hover{
+transform:translateY(-10px);
+}
+
+.testimonial-card p{
+font-style:italic;
+line-height:1.7;
+margin-bottom:20px;
+}
+
+.testimonial-card h4{
+color:#FFD54F;
+font-size:24px;
+margin-bottom:10px;
+}
+
+.testimonial-card strong{
+color:#0B3D91;
+}
