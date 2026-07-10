@@ -11,16 +11,17 @@ color:#fff;
 }
 
 header{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+background:#0B3D91;
 display:flex;
 justify-content:space-between;
 align-items:center;
-padding:20px 8%;
-background:rgba(255,255,255,0.08);
-backdrop-filter:blur(10px);
-position:fixed;
-width:100%;
-top:0;
-left:0;
+padding:18px 8%;
+z-index:1000;
+box-shadow:0 5px 15px rgba(0,0,0,.15);
 }
 
 .logo{
