@@ -251,3 +251,14 @@ margin:15px 0;
 margin-top:25px;
 display:inline-block;
 }
+.btn2{
+background:transparent;
+border:2px solid #FFD54F;
+color:#FFD54F;
+margin-left:15px;
+}
+
+.btn2:hover{
+background:#FFD54F;
+color:#0B3D91;
+}
